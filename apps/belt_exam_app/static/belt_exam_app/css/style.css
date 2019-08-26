@@ -1,0 +1,32 @@
+.boxes{
+    width:500px;
+    margin:50px;
+    margin-left:100px;
+}
+
+.red{
+    color:red;
+}
+
+.wrapper{
+    display:flex;
+}
+
+.blue{
+    color:#009AC7;
+}
+
+.head{
+    border-bottom: solid black 2px;
+    display:flex;
+    justify-content:space-between;
+    width:1200px;
+}
+
+.headright{
+    display:flex;
+}
+
+.content{
+    display:flex;
+}
